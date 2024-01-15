@@ -1,2 +1,2 @@
 # scripts_AO
-Repositório para análises de dados do meu Mestrado
+Repositório para análises de dados do meu Mestrado.
